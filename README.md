@@ -1,4 +1,7 @@
 # aws-lambdas
+
+[![Build Status](https://travis-ci.org/kyhau/aws-lambdas.svg?branch=master)](https://travis-ci.org/kyhau/aws-lambdas)
+
 My AWS Lambda functions for personal use.
 
 ## Scripts being run through Lambda
