@@ -1,4 +1,4 @@
-# aws-lambdas
+# AWS lambda functions for EC2
 
 [![Build Status](https://travis-ci.org/kyhau/aws-lambdas.svg?branch=master)](https://travis-ci.org/kyhau/aws-lambdas)
 
