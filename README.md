@@ -5,6 +5,12 @@
 My AWS Lambda functions for personal use.
 
 ## Scripts being run through Lambda
+    
+1. `EC2/autostop_ec2/autostop-ec2`
+    - Autostop EC2 instances with specified tag
+
+1. `EC2/autostop_ec2/reset-autostop-ec2`
+    - Reset Autostop tags of specific EC2 instances
 
 1. `EC2/backup_ec2/create-ec2-backups`
     - Create AMI and Snapshot(s) for EC2 instance

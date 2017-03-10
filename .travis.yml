@@ -27,4 +27,5 @@ install:
 
 # command to run tests
 script:
-    - tox
+     - pytest -s -vvvv EC2
+
