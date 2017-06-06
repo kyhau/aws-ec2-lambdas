@@ -4,7 +4,7 @@ sudo: false
 matrix:
     include:
     - python: 2.7
-      env: TOXENV=py27
+    - python: 3.6
 
 before_install:
     - python -m pip install --upgrade setuptools pip virtualenv pytest
