@@ -1,6 +1,6 @@
 # AWS lambda functions for EC2
 
-[![Build Status](https://travis-ci.org/kyhau/aws-ec2-lambdas.svg?branch=master)](https://travis-ci.org/kyhau/aws-ec2-lambdas)
+Python 2.7 | 3.6 [![Build Status](https://travis-ci.org/kyhau/aws-ec2-lambdas.svg?branch=master)](https://travis-ci.org/kyhau/aws-ec2-lambdas)
 
 My AWS Lambda functions for personal use.
 
