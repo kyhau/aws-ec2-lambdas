@@ -4,6 +4,7 @@ sudo: false
 matrix:
     include:
     - python: 2.7
+    - python: 3.5
     - python: 3.6
 
 before_install:
@@ -15,5 +16,4 @@ install:
 
 # command to run tests
 script:
-     - pytest -s -vvvv EC2
-
+    - pytest -s -vvvv EC2
